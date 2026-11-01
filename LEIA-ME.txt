@@ -1,0 +1,18 @@
+SINAL SEGURO — PROTÓTIPO FRONT-END
+
+Arquivos:
+- index.html: estrutura e conteúdo
+- style.css: identidade visual e layout responsivo
+- script.js: interações do menu e dos itens informativos
+
+Como executar:
+1. Extraia o ZIP.
+2. Abra index.html em um navegador.
+3. Para editar, abra a pasta em um editor como VS Code.
+
+Importante:
+Este é um protótipo acadêmico front-end. Não possui backend, autenticação,
+envio de denúncias, geolocalização real nem armazenamento de evidências.
+O mapa é ilustrativo. Não use o protótipo para inserir dados pessoais ou
+informações sensíveis. Antes de uma publicação real, será necessário validar
+conteúdo, canais, privacidade, segurança e acessibilidade com profissionais.
